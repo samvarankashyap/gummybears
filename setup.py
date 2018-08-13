@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'gummybears',
-    version = '0.0.1',
+    version = '0.0.2',
     description = 'A Python package example by samvaran',
     author = 'samvaran kashyap rallabandi',
     author_email = 'samvaran.kashyap@gmail.com',
